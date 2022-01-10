@@ -1,0 +1,36 @@
+body{
+    background: rgb( 0 , 0, 0);
+}
+h1{
+    color:darkgrey;
+    text-align: center;
+    font-family: "Garamond", "serif";
+}
+img{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-color: dimgrey;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+}
+a{
+   color:darkgray;
+   font-family: "Garamond", "serif";
+}
+p{
+    color:darkgray;
+    text-align: center;
+    font-family: "Garamond", "serif";
+}
+
+footer{
+        color:darkgray;
+        text-align: center;
+        font-family: "Garamond", "serif";
+        margin-top: 5%;
+        margin-bottom: 5%;
+}

@@ -1,0 +1,36 @@
+body{
+    background: rgb(212, 180, 133);
+}
+h1{
+    color: rgb(39, 127, 135);
+    text-align: center;
+    font-family: "Garamond", "serif";
+}
+img{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-color: darkgoldenrod;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+}
+a{
+   color: rgb(39, 127, 135);
+   font-family: "Garamond", "serif";
+}
+p{
+    color: rgb(39, 127, 135);
+    text-align: center;
+    font-family: "Garamond", "serif";
+}
+
+footer{
+        color: rgb(39, 127, 135);
+        text-align: center;
+        font-family: "Garamond", "serif";
+        margin-top: 5%;
+        margin-bottom: 5%;
+}

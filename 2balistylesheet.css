@@ -1,0 +1,49 @@
+body{
+    background: rgb( 100 , 100, 50);
+}
+h1{
+    color:whitesmoke;
+    text-align: center;
+    font-family: "Garamond", "serif";
+}
+h2{
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Garamond", "serif";
+}
+img{
+   width: 70%;
+    margin-left: 15%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-color: whitesmoke;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+}
+a{
+   color:whitesmoke;
+   font-family: "Garamond", "serif";
+}
+p{
+    color:whitesmoke;
+    text-align: center;
+    font-family: "Garamond", "serif";
+}
+hr.new1{
+    border-top: 2px dotted white;
+    border-bottom: 2px dotted white;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+hr{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+footer{
+   color:whitesmoke;
+    text-align: center;
+   font-family: "Garamond", "serif";
+}

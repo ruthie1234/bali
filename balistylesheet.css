@@ -1,0 +1,44 @@
+body{
+    background: rgb( 0 , 145, 245);
+}
+h1{
+    color:floralwhite;
+    text-align: center;
+    font-family: "Brush Script MT", "Cursive";
+}
+p{
+    color:floralwhite;
+    text-align:center;
+    font-family: "Brush Script MT", "Cursive";
+}
+img{
+   width: 70%;
+    margin-left: 15%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-color: floralwhite;
+    border-style:double;
+}
+a{
+    color:floralwhite;
+}
+table {
+  width: 100%;
+    margin-top: 10%;
+}
+td{
+    text-align: center;
+    color:floralwhite;
+    
+}
+th{
+    color:floralwhite;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color:floralwhite;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
